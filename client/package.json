@@ -1,0 +1,21 @@
+{
+  "name": "saeeam-openai-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "description": "Indian Collage Student Startup Company Open Ai First Project ",
+  "main": "script.js",
+  "keywords": [
+    "Saeeam"
+  ],
+  "author": "SaeeAM",
+  "license": "ISC"
+}
